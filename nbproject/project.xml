@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>mydentalproject</name>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>addappointment</word>
+            <word>addpatient</word>
+            <word>addtreatment</word>
+            <word>deleteappointment</word>
+            <word>gettreatment</word>
+            <word>updateappointment</word>
+            <word>updatepatient</word>
+            <word>updatetreatment</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
